@@ -25,6 +25,9 @@
 - **[JokeWeb](https://github.com/JokeCraftMC/JokeWeb)** *Private*  
   Official website and web portal providing server information, live updates, and community features.
 
+  - **[JokeCord](https://github.com/JokeCraftMC/JokCord)** *Private*  
+  Official discord bot engine for the JokeCraft Discord server.
+
 ---
 
 ## ✨ Features
