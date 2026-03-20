@@ -1,6 +1,6 @@
-# JokeCraft Network
+# Rankup Server the Server
 
-**A custom Minecraft server experience built on Minestom**
+**A custom Parkour server experience built on Minestom**
 
 ---
 
